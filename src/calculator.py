@@ -1,6 +1,6 @@
 class Calculator:
     def add(self, a, b):
-        return a + b
+        return a + b  # test PR
 
     def divide(self, a, b):
         if b == 0:
